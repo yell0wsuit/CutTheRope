@@ -1086,7 +1086,7 @@ body {
  left:-5px;
  width:83px;
  height:83px;
- background-image:url(../images/1024/ui/fb.png);
+ /*background-image:url(../images/1024/ui/fb.png);*/
  background-repeat:no-repeat
 }
 .ui-1024 #gameFooterContainer {
@@ -2130,7 +2130,7 @@ body {
  left:-4px;
  width:62px;
  height:62px;
- background-image:url(../images/768/ui/fb.png);
+ /*background-image:url(../images/768/ui/fb.png);*/
  background-repeat:no-repeat
 }
 .ui-768 #gameFooterContainer {
